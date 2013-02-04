@@ -1,0 +1,657 @@
+2013/02/04 12:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.orbit-1.4.0.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.reveal.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.min.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/imgsize...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/imgsizer.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/moderni...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/modernizr.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/forms.j...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/forms.jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.customforms.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.placeholder.min.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.tooltips.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/app.js')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/app.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/imgsize...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/imgsizer.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.min.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/moderni...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/modernizr.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.reveal.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.orbit-1.4.0.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/forms.j...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/forms.jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/app.js')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/app.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.placeholder.min.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.tooltips.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('js')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('js')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/js/jquery.customforms.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "stylesheets".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('stylesheets')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('stylesheets')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/stylesheet...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/stylesheets/app.css
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/app.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/modernizr.foundation.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/modernizr.foundation.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "stylesheets".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('stylesheets')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('stylesheets')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/stylesheet...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/stylesheets/app.css
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/app.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/modernizr.foundation.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "stylesheets".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('stylesheets')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('stylesheets')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/stylesheet...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/stylesheets/app.css
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/app.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/modernizr.foundation.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "stylesheets".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('stylesheets')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('stylesheets')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/stylesheet...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/stylesheets/app.css
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/app.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/modernizr.foundation.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/app.js
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "stylesheets".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('stylesheets')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('stylesheets')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/stylesheet...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/stylesheets/app.css
+HTTP_REFERER=http://localhost/site/index.php/site/page?view=about
+---
+2013/02/04 12:22:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "stylesheets".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('stylesheets')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('stylesheets')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/stylesheet...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/stylesheets/app.css
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:22:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/modernizr.foundation.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:22:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:22:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/app.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "stylesheets".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('stylesheets')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('stylesheets')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/stylesheet...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/stylesheets/app.css
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/app.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/modernizr.foundation.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/modernizr.foundation.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/app.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "stylesheets".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('stylesheets')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('stylesheets')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/stylesheet...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/stylesheets/app.css
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/app.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/modernizr.foundation.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "stylesheets".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('stylesheets')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('stylesheets')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/stylesheet...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/stylesheets/app.css
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "stylesheets".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('stylesheets')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('stylesheets')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/stylesheet...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/stylesheets/app.css
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/jquery.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:25:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "javascripts".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('javascripts')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('javascripts')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('site/javascript...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\site\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/index.php/site/javascripts/foundation/modernizr.foundation.js
+HTTP_REFERER=http://localhost/site/index.php/site/index
+---
+2013/02/04 12:27:37 [error] [php] Declaration of SiteController::run() should be compatible with CController::run($actionID) (C:\xampp\htdocs\site\protected\controllers\SiteController.php:4)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#1 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\site\index.php(13): CWebApplication->run()
+REQUEST_URI=/site/index.php/site/index
+in C:\xampp\htdocs\site\protected\controllers\SiteController.php (4)
+in C:\xampp\htdocs\site\index.php (13)
